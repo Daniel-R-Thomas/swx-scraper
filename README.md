@@ -13,6 +13,7 @@ Install requirements (same directory):
 Accounts:
 Two options for storing account information. Either save account information as “username (newline no spaces) password” and modify FBGeneralCode.py -> accountFetch(infoType) -> accountFile’s directory to the new one setup. Second option is to have the function return the fbUsername and fbPassword as strings directly. This method is not recommended due to how easy it would be to accidentally upload account information.
 
+![alt text](https://github.com/Daniel-R-Thomas/swx-scraper/blob/master/images/image5.png)
 
 Change line 18 above to account.txt’s new directory
 Or
