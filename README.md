@@ -16,7 +16,10 @@ Two options for storing account information. Either save account information as 
 ![alt text](https://github.com/Daniel-R-Thomas/swx-scraper/blob/master/images/image5.png)
 
 Change line 18 above to account.txt’s new directory
+
 Or
+
+![alt text](https://github.com/Daniel-R-Thomas/swx-scraper/blob/master/images/image9.png)
 
 Directly return password (not recommended) 
 
