@@ -5,10 +5,10 @@ This program was written by Daniel Thomas during the Spring 2018 semester intern
 
 ### How to run 
 Install pip:
- `sudo apt-get install python-pip python-dev build-essential`
+`sudo apt-get install python-pip python-dev build-essential`
 
 Install requirements (same directory):
- `pip install -r req.txt`
+`pip install -r req.txt`
 
 Accounts:
 Two options for storing account information. Either save account information as “username (newline no spaces) password” and modify FBGeneralCode.py -> accountFetch(infoType) -> accountFile’s directory to the new one setup. Second option is to have the function return the fbUsername and fbPassword as strings directly. This method is not recommended due to how easy it would be to accidentally upload account information.
