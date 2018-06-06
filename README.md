@@ -1,8 +1,9 @@
 # swx-scraper
-About 
+
+# About 
 This program was written by Daniel Thomas during the Spring 2018 semester internship with SOFWERX. The intent of the program is to collect data on multiple platforms to link together relevant crime information, Local FaceBook events, and users from FaceBook. This information compiled together will ultimately give a better insight of the area around a specific location and the potential to identify events of interest based on the compiled data. It should be noted that the programming and imports used aren't the only way to accomplish this or maybe themost efficient, but it works and could easily be reused for other areas. 
 
-#How to run 
+### How to run 
 Install pip:
 sudo apt-get install python-pip python-dev build-essential
 Install requirements (same directory):
