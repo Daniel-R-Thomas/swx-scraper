@@ -1,7 +1,7 @@
 # swx-scraper
 
 ### About 
-This program was written by Daniel Thomas during the Spring 2018 semester internship with SOFWERX. The intent of the program is to collect data on multiple platforms to link together relevant crime information, Local FaceBook events, and users from FaceBook. This information compiled together will ultimately give a better insight of the area around a specific location and the potential to identify events of interest based on the compiled data. It should be noted that the programming and imports used aren't the only way to accomplish this or maybe themost efficient, but it works and could easily be reused for other areas. 
+The intent of the program is to collect data on multiple platforms to link together relevant crime information, Local FaceBook events, and users from FaceBook. This information compiled together will ultimately give a better insight of the area around a specific location and the potential to identify events of interest based on the compiled data. It should be noted that the programming and imports used aren't the only way to accomplish this or maybe the most efficient, but it works and could easily be reused for other areas. This project was created with the help of Selenium WebDriver on python 2.7. As an added example, Beautiful Soup was also used. When deciding whether or not to use Selenium or Beautiful Soup for your project there's a few options. If the website is purely static, use Beautiful Soup. If the web page is dynamic and needs automation to traverse, use Selenium. Finally, if the web scraping is complicated and dynamic, use Selenium to navigate combined with Beautiful Soup to collect the actual data.
 
 ### How to run 
 Install pip:
