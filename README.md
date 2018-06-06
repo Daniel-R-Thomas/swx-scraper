@@ -36,6 +36,6 @@ The location in the users address search is also currently listed in the Tampa a
 Line 26
 
 Running (same directory):
-python main.py in linux terminal
+`python main.py` in linux terminal
 
 
