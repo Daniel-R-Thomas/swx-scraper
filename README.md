@@ -26,9 +26,12 @@ Directly return password (not recommended)
 Changing location in crime data search:
 Currently the program is defaulted to Tampa, FL. To change the location, open lexis.py and copy the new URL location to the line before. Or simply edit and replace the current location on line 14.
 
+![alt text](https://github.com/Daniel-R-Thomas/swx-scraper/blob/master/images/image3.png)
+
 Changing location in address search:
 The location in the users address search is also currently listed in the Tampa area. To change this, open the tree.py and change the remaining part of the URL to the new city and state.
 
+![alt text](https://github.com/Daniel-R-Thomas/swx-scraper/blob/master/images/image6.png)
 
 Line 26
 
